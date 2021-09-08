@@ -2,9 +2,6 @@ package com.calculator;
 import java.util.Scanner;
 public class calc {
   public static void main (String[] args){
-    /*Scanner scan=new Scanner(System.in);
-    Scanner sc=new Scanner(System.in);
-    Scanner sc2=new Scanner(System.in);*/
     int b;int a;String c;
     int d=1;
     while (d==1){
